@@ -1,4 +1,4 @@
-# Image-Captioning
+# Image-to-Text
 <ul>
   <li> Implemented Encoder-Decoder architecture for image captioning on MS COCO dataset</li>
   <li> Used SOTA Deep CNN models as Image Encoder and GPT-like Decoder only Transformer architecture with Masked Attention and Cross Attention as Decoder</li>
